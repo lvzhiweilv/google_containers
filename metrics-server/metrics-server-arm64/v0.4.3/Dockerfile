@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/metrics-server/metrics-server-arm64:v0.4.3
+FROM gcr.io/google-containers/metrics-server-arm64:v0.4.3
